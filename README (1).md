@@ -38,17 +38,6 @@ The database consists of the following tables:
 - `treatment_id` (Foreign Key)
 - `amount`, `billing_date`, `payment_status`
 
-## 🛠️ How to Use
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/hospital-management-sql.git
-   ```
-
-2. **Run the SQL Script**:
-   Import `HotelManagementSystem.sql` into your SQL client (MySQL, PostgreSQL, etc.) to create the schema and tables.
-
-3. **Start Managing Hospital Data**!
 
 ## ✅ Features
 
@@ -56,6 +45,3 @@ The database consists of the following tables:
 - Normalized data structure
 - Suitable for integration into larger health management applications
 
-## 📌 Note
-
-This is a backend-only project focusing on SQL database structure and is ideal for learning or integration into full-stack applications.
